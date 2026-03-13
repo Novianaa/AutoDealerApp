@@ -19,14 +19,20 @@ AutoDealerApp adalah aplikasi web untuk manajemen data kendaraan bekas pada peru
 ## Installation
 
 ### Clone repository
+```bash
 git clone https://github.com/Novianaa/AutoDealerApp.git
+```
 
 ### Backend
+```bash
 cd server
 npm install
 npm run dev
+```
 
 ### Frontend
+```bash
 cd client
 npm install
 npm start
+```
